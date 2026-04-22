@@ -50,7 +50,7 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ### Graph 1: Distribution of Heart Disease by Age
 
-![Distribution of Heart Disease by Age](GRAPH-1.png)
+![Distribution of Heart Disease by Age](Visualizations/GRAPH-1.png)
 
 **Type:** Multi-series Line Chart
 
@@ -67,7 +67,7 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ### Graph 2: Distribution of Heart Disease Patients by Gender
 
-![Distribution of Heart Disease Patient by Gender](GRAPH-2.png)
+![Distribution of Heart Disease Patient by Gender](Visualizations/GRAPH-2.png)
 
 **Type:** Pie Chart
 
@@ -84,7 +84,7 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ### Graph 3: Which Factors Predict Heart Disease?
 
-![Which Factors Predict Heart Disease?](GRAPH-3.png)
+![Which Factors Predict Heart Disease?](Visualizations/GRAPH-3.png)
 
 **Type:** Horizontal Bar Chart (Feature Importance/Correlation Analysis)
 
@@ -104,7 +104,7 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ### Graph 4: Heart Disease Risk by Chest Pain Type
 
-![Heart Disease Risk by Chest Pain Type](GRAPH-4.png)
+![Heart Disease Risk by Chest Pain Type](Visualizations/GRAPH-4.png)
 
 **Type:** Grouped Bar Chart
 
@@ -122,7 +122,7 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ### Graph 5: Max Heart Rate Distribution by Heart Disease
 
-![Max Heart Rate Distribution by Heart Disease](GRAPH-5.png)
+![Max Heart Rate Distribution by Heart Disease](Visualizations/GRAPH-5.png)
 
 **Type:** Violin Plot with Quartile Distribution
 
