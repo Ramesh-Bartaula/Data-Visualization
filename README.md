@@ -159,15 +159,15 @@ Data-Visualization/
 │   └── HeartDisease.pptx                 # Summary presentation
 │
 └── Visualizations/
-|    ├── GRAPH-1.png                       # Distribution by Age
-|    ├── GRAPH-2.png                       # Distribution by Gender
-|    ├── GRAPH-3.png                       # Predictive Factors Analysis
-|    ├── GRAPH-4.png                       # Risk by Chest Pain Type
-|    └── GRAPH-5.png                       # Heart Rate Distribution
-|
+│    ├── GRAPH-1.png                       # Distribution by Age
+│    ├── GRAPH-2.png                       # Distribution by Gender
+│    ├── GRAPH-3.png                       # Predictive Factors Analysis
+│    ├── GRAPH-4.png                       # Risk by Chest Pain Type
+│    └── GRAPH-5.png                       # Heart Rate Distribution
+│
 ├── README.md                              # Project documentation
 ├── LICENSE                                # MIT License
-│
+
 ```
 
 ## Technologies and Tools
