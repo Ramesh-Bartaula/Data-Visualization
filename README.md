@@ -259,7 +259,7 @@ The MIT License permits free use, modification, and distribution of this work fo
 
 - **Kaggle:** For hosting and providing access to the dataset
 - **UCI Machine Learning Repository:** For the original data source
-- **Data Science Community:** For methodologies and visualization best practices
+- **Data Science Community/Professor:** For methodologies and visualization best practices
 
 ## Disclaimer
 
