@@ -29,11 +29,11 @@ The Heart Disease dataset contains medical records of 303 patients with 14 clini
 - **Sex:** Patient gender (Male/Female)
 - **Chest Pain Type:** Classification of chest pain symptoms
 - **Resting Blood Pressure:** Blood pressure at rest (mmHg)
-- **Serum Cholesterol:** Cholesterol levels (mg/dl)
+- **Cholesterol:** Cholesterol levels (mg/dl)
 - **Fasting Blood Sugar:** Blood sugar levels after fasting
 - **Resting ECG:** Resting electrocardiographic measurements
 - **Max Heart Rate:** Maximum heart rate achieved during exercise
-- **Exercise-Induced Angina:** Angina induced by exercise
+- **Exercise Angina:** Angina induced by exercise
 - **ST Depression:** ST segment depression induced by exercise
 - **ST Slope:** Slope of the ST segment
 - **Target Variable:** Heart disease presence (0 = Negative, 1 = Positive)
