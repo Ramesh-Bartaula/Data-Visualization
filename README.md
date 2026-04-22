@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a comprehensive Data Visualization project focused on analyzing and visualizing real-world heart disease patterns and risk factors. The project leverages statistical analysis and advanced data visualization techniques to uncover meaningful insights from medical datasets, providing a visual framework for understanding heart disease epidemiology and clinical indicators.
+This is a comprehensive Data Visualization project focused on analyzing and visualizing real-world heart disease patterns and risk factors. The project leverages statistical analysis and data visualization techniques to uncover meaningful insights from medical datasets, providing a visual framework for understanding heart disease epidemiology and clinical indicators.
 
 ## Project Objectives
 
