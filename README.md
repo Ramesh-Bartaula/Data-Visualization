@@ -198,9 +198,8 @@ Data-Visualization/
 - Chest pain type is essential for risk stratification and diagnostic assessment
 
 ### Physiological Parameters
-- Patients with heart disease achieve significantly lower maximum heart rates during exercise
+- Patients with heart disease achieve significantly lower maximum heart rates 
 - Exercise intolerance is a consistent feature of heart disease presentation
-- Maximum heart rate serves as an objective measure of cardiac functional capacity
 
 ## Usage Instructions
 
