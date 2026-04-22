@@ -143,9 +143,6 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ```
 Data-Visualization/
-├── README.md                              # Project documentation
-├── LICENSE                                # MIT License
-│
 ├── Data Files/
 │   ├── Raw_Data_HeartDisease.csv         # Original unprocessed dataset
 │   └── Cleaned_Data_HeartDisease.csv     # Processed and cleaned dataset
@@ -162,11 +159,15 @@ Data-Visualization/
 │   └── HeartDisease.pptx                 # Summary presentation
 │
 └── Visualizations/
-    ├── GRAPH-1.png                       # Distribution by Age
-    ├── GRAPH-2.png                       # Distribution by Gender
-    ├── GRAPH-3.png                       # Predictive Factors Analysis
-    ├── GRAPH-4.png                       # Risk by Chest Pain Type
-    └── GRAPH-5.png                       # Heart Rate Distribution
+|    ├── GRAPH-1.png                       # Distribution by Age
+|    ├── GRAPH-2.png                       # Distribution by Gender
+|    ├── GRAPH-3.png                       # Predictive Factors Analysis
+|    ├── GRAPH-4.png                       # Risk by Chest Pain Type
+|    └── GRAPH-5.png                       # Heart Rate Distribution
+|
+├── README.md                              # Project documentation
+├── LICENSE                                # MIT License
+│
 ```
 
 ## Technologies and Tools
