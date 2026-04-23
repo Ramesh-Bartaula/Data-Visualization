@@ -67,7 +67,7 @@ The project includes comprehensive data cleaning and preprocessing steps:
 
 ### Graph 2: Distribution of Heart Disease Patients by Gender
 
-![Distribution of Heart Disease Patient by Gender](Visualizations/GRAPH-2.png)
+![Distribution of Heart Disease Patient by Gender]()
 
 **Type:** Pie Chart
 
