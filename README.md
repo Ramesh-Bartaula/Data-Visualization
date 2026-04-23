@@ -74,8 +74,8 @@ The project includes comprehensive data cleaning and preprocessing steps:
 **Description:** This visualization illustrates the gender distribution within the heart disease patient population, displaying the percentage breakdown between male and female patients.
 
 **Key Insights:**
-- Male patients represent 79.0% of the study population
-- Female patients represent 21.0% of the study population
+- Male HD positive patients represent 90.1.0% of the study population
+- Female HD positive patients represent 9.8.0% of the study population
 - The dataset shows a significant male predominance in heart disease diagnosis
 - This 4:1 male-to-female ratio is consistent with epidemiological patterns indicating higher heart disease prevalence in men
 - The imbalance suggests biological, lifestyle, or diagnostic differences between genders
